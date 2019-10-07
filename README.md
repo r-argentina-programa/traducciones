@@ -5,14 +5,11 @@ Una lista de artículos utilizados en el curso de r/argentina programa, traducid
 
 <table>
 <thead>
-<tr>
-    <td>Título</td>
-    <td>Traducción</td>
-    <td>Original</td>
-</tr>
+    <th>Título</th>
+    <th>Traducción</th>
+    <th>Original</th>
 </thead>
 <tbody>
-
 </tbody>
     <tr>
         <td>GitHub Desktop</td>
